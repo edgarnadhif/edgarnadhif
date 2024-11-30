@@ -15,7 +15,7 @@
 <p align="center">
 <a href="https://twitter.com/nekotamago__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nekotamago__" height="30" width="40" /></a>
 <a href="https://instagram.com/edgarndf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edgarndf" height="30" width="40" /></a>
-<a href="https://fb.com/edgarnadhif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edgarnadhif" height="30" width="40" /></a>
+<a href="https://fb.com/edgarnadhif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edgarliverpudlian" height="30" width="40" /></a>
 </p>
 
 <hr/>
